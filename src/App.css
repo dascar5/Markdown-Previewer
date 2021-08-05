@@ -1,0 +1,14 @@
+/** @format */
+
+.preview {
+  background-color: #fff !important;
+}
+
+.preview img {
+  max-width: 80% !important;
+}
+
+textarea,
+.preview {
+  min-height: 400px !important;
+}
